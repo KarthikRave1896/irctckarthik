@@ -25,6 +25,7 @@ public class SetSample {
 		si.add("Money");
 		si.addAll(ss);
 		System.out.println(si);
+		System.out.println("karthik");
 		
 		//si.retainAll(ss);
 		//System.out.println(si);
